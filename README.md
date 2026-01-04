@@ -1,11 +1,11 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rahul%20Khambra&fontSize=44&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20Web%20%26%20App%20Developer%20%7C%20Mentor&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rahul%20Khambra&fontSize=44&fontColor=ffffff&desc=Senior%20Software%20Engineer%20%7C%20Web%20%26%20App%20Developer%20%7C%20Mentor&descAlignY=70&cacheSeconds=86400" />
 </p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+%26+Mobile+Apps;Clean+Architecture+%7C+High+Performance;Senior+Software+Engineer+%7C+Mentor;Turning+Ideas+Into+Production+Systems&font=Fira+Code&center=true&width=700&height=45&color=38BDF8&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Scalable+Web+%26+Mobile+Apps;Clean+Architecture+%7C+High+Performance;Senior+Software+Engineer+%7C+Mentor;Turning+Ideas+Into+Production+Systems&font=Fira+Code&center=true&width=650&height=45&color=38BDF8&vCenter=true&pause=1000&cacheSeconds=86400" />
 </p>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
@@ -30,7 +30,7 @@
 🚀 **Senior Software Engineer** with **3+ years of professional experience** in building **production-grade web and mobile applications**.
 
 💡 I focus on **clean architecture**, **scalable systems**, and **long-term maintainability**.  
-🤝 Passionate about **mentoring engineers**, simplifying complex concepts, and giving back to the tech community.
+🤝 Passionate about **mentoring engineers** and simplifying complex concepts.
 
 ---
 
@@ -38,28 +38,27 @@
 ### 🧑‍💻 Senior Software Engineer  
 ⏳ **3+ Years – Industry Experience**
 
-✔ Architected and built scalable applications  
-✔ Developed secure REST & backend systems  
-✔ Worked across frontend, backend & databases  
-✔ Optimized performance & production reliability  
+✔ Architected scalable applications  
+✔ Built secure REST APIs  
+✔ Full-stack development  
+✔ Performance & production optimization  
 
 ---
 
-## 🚀 Services (What I Do)
+## 🚀 Services
 | 💎 Service | 🔍 Description |
 |----------|----------------|
-| 🌐 Website Development | Modern, responsive, SEO-friendly websites |
-| 🖥️ Web Applications | Scalable React & Spring Boot systems |
-| 📱 Mobile Apps | Android apps using Kotlin & Java |
-| 🔌 Backend & APIs | REST APIs, auth, DB design |
-| 🎯 Mentorship | Resume, interviews, career guidance |
-| 📚 Community | YouTube, workshops, mentoring |
+| 🌐 Website Development | Modern, responsive websites |
+| 🖥️ Web Applications | React & Spring Boot apps |
+| 📱 Mobile Apps | Android (Kotlin / Java) |
+| 🔌 Backend & APIs | REST APIs, auth, DB |
+| 🎯 Mentorship | Career, resume, interviews |
 
 👉 **Book a session:** https://topmate.io/rahul_khambra
 
 ---
 
-## 🧰 Tech Stack (Expanded & Grouped)
+## 🧰 Tech Stack
 
 ### 🎨 Frontend
 <p>
@@ -81,48 +80,25 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,netlify" />
 </p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects (Hover → Live)
-🚧 *(Demo links active)*
+## 📈 GitHub Analytics
 
-🔷 **Scalable Web Platform**  
-`React • Spring Boot • MySQL • Docker`  
-🔗 https://example.com  
-
-🔷 **REST API System**  
-`Java • Spring Boot • JWT • REST`  
-🔗 https://example.com  
-
-🔷 **Modern Portfolio**  
-`React • Tailwind • Framer Motion`  
-🔗 https://example.com  
-
----
-
-## 🏆 Achievements & Community
-🏅 Software Engineer | YouTuber | Topmate Mentor  
-🎓 Campus Ambassador – **Delhi Kotlin User Group**  
-🌍 Actively mentoring & supporting developer communities  
-
----
-
-## 📈 GitHub Analytics (Animated)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R001K&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r001k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R001K&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r001k&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R001K&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=r001k&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -141,5 +117,5 @@
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=90&section=footer&cacheSeconds=86400" />
 </p>
